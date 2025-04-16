@@ -25,7 +25,7 @@ DISCLAIMER: This game can take forever — odds are truly random!
 2. Download or clone this repo:
    ```bash
    git clone https://github.com/Dyspropie/total-random-game.git
-3. python random_game.py
+3. python random.py
 
 ---
 
